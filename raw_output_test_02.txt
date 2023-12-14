@@ -1,0 +1,248 @@
+ROUND 0
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 1
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 2
+Spin Result: Black
+Consecutive Spins: 2
+**********
+ROUND 3
+Spin Result: Black
+Consecutive Spins: 3
+**********
+ROUND 4
+Spin Result: Black
+Consecutive Spins: 4
+**********
+$$$$$$$$$$
+Starting: Placing bet on opposite color... bet on red 
+ROUND 5
+Spin Result: Black
+Bet lost. Repeating bet...
+new bet amount: 100
+Current Balance: $450
+
+$$$$$$$$$$
+ROUND 6
+Spin Result: Black
+Bet lost. Repeating bet...
+new bet amount: 200
+Current Balance: $350
+
+$$$$$$$$$$
+ROUND 7
+Spin Result: Black
+Bet lost. Repeating bet...
+new bet amount: 400
+Current Balance: $150
+
+$$$$$$$$$$
+ROUND 8
+Spin Result: Red
+Bet won!
+Current Balance: $550
+
+$$$$$$$$$$
+ROUND 9
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 10
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 11
+Spin Result: Red
+Consecutive Spins: 2
+**********
+ROUND 12
+Spin Result: Red
+Consecutive Spins: 3
+**********
+ROUND 13
+Spin Result: Red
+Consecutive Spins: 4
+**********
+$$$$$$$$$$
+Starting: Placing bet on opposite color... bet on black 
+ROUND 14
+Spin Result: Red
+Bet lost. Repeating bet...
+new bet amount: 100
+Current Balance: $500
+
+$$$$$$$$$$
+ROUND 15
+Spin Result: Black
+Bet won!
+Current Balance: $600
+
+$$$$$$$$$$
+ROUND 16
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 17
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 18
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 19
+Spin Result: Red
+Consecutive Spins: 2
+**********
+ROUND 20
+Spin Result: Red
+Consecutive Spins: 3
+**********
+ROUND 21
+Spin Result: Red
+Consecutive Spins: 4
+**********
+$$$$$$$$$$
+Starting: Placing bet on opposite color... bet on black 
+ROUND 22
+Spin Result: Red
+Bet lost. Repeating bet...
+new bet amount: 100
+Current Balance: $550
+
+$$$$$$$$$$
+ROUND 23
+Spin Result: Red
+Bet lost. Repeating bet...
+new bet amount: 200
+Current Balance: $450
+
+$$$$$$$$$$
+ROUND 24
+Spin Result: Black
+Bet won!
+Current Balance: $650
+
+$$$$$$$$$$
+ROUND 25
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 26
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 27
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 28
+Spin Result: Black
+Consecutive Spins: 2
+**********
+ROUND 29
+Spin Result: Black
+Consecutive Spins: 3
+**********
+ROUND 30
+Spin Result: Black
+Consecutive Spins: 4
+**********
+$$$$$$$$$$
+Starting: Placing bet on opposite color... bet on red 
+ROUND 31
+Spin Result: Red
+Bet won!
+Current Balance: $700
+
+$$$$$$$$$$
+ROUND 32
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 33
+Spin Result: Black
+Consecutive Spins: 2
+**********
+ROUND 34
+Spin Result: Black
+Consecutive Spins: 3
+**********
+ROUND 35
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 36
+Spin Result: Red
+Consecutive Spins: 2
+**********
+ROUND 37
+Spin Result: Red
+Consecutive Spins: 3
+**********
+ROUND 38
+Spin Result: Red
+Consecutive Spins: 4
+**********
+$$$$$$$$$$
+Starting: Placing bet on opposite color... bet on black 
+ROUND 39
+Spin Result: Red
+Bet lost. Repeating bet...
+new bet amount: 100
+Current Balance: $650
+
+$$$$$$$$$$
+ROUND 40
+Spin Result: Red
+Bet lost. Repeating bet...
+new bet amount: 200
+Current Balance: $550
+
+$$$$$$$$$$
+ROUND 41
+Spin Result: Black
+Bet won!
+Current Balance: $750
+
+$$$$$$$$$$
+ROUND 42
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 43
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 44
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 45
+Spin Result: Black
+Consecutive Spins: 2
+**********
+ROUND 46
+Spin Result: Red
+Consecutive Spins: 1
+**********
+ROUND 47
+Spin Result: Red
+Consecutive Spins: 2
+**********
+ROUND 48
+Spin Result: Black
+Consecutive Spins: 1
+**********
+ROUND 49
+Spin Result: Black
+Consecutive Spins: 2
+**********
+^^^^^^^^^^^^^^^
+###############
+Simulation completed.
+Final Balance: $750
