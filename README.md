@@ -8,6 +8,8 @@ This Python script utilizes computer vision techniques to automate interactions 
 
 [Watch Video Demo](upwork_roulette_part_02.mp4)
 
+[![Watch Video Demo](https://img.youtube.com/vi/33xtQYCoKmI/0.jpg)](https://www.youtube.com/watch?v=33xtQYCoKmI)
+
 ## Key Features
 
 - **Template Matching:** Utilizes OpenCV for template matching to identify specific regions on the screen.
