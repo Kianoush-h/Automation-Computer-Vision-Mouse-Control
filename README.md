@@ -4,6 +4,10 @@
 
 This Python script utilizes computer vision techniques to automate interactions with a live screen. It identifies predefined regions using template matching, reads configuration data from "order.txt," and performs mouse movements and clicks based on the specified conditions. The script is designed for scenarios where manual interactions with specific screen elements are repetitive and can be automated.
 
+## Video Demonstration
+
+[Watch Video Demo](upwork_roulette_part_02.mp4)
+
 ## Key Features
 
 - **Template Matching:** Utilizes OpenCV for template matching to identify specific regions on the screen.
