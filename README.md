@@ -33,6 +33,45 @@ This Python script utilizes computer vision techniques to automate interactions 
     python main_script.py
     ```
 
+## Code Sections and Explanations
+
+### Template Matching
+
+The script employs OpenCV's template matching technique to locate predefined regions on the screen. The template images are stored in the `screen` directory.
+
+```python
+# Example code snippet
+result = cv2.matchTemplate(screenshot_np, template_rgb, cv2.TM_CCOEFF_NORMED)
+_, _, _, max_loc = cv2.minMaxLoc(result)
+
+## Configuration File Reading
+
+The configuration file, "order.txt," is used to provide dynamic input parameters for the script, such as color and bet values.
+```python
+# Example code snippet
+def read_order_file(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            order_data = {line.split(':')[0].strip(): line.split(':')[1].strip() for line in lines}
+            return order_data
+    except FileNotFoundError:
+        print(f'File not found: {file_path}')
+        return None
+```
+
+## Mouse Automation
+
+The script uses PyAutoGUI for mouse automation, moving the mouse to specific coordinates based on identified regions and configuration data.
+
+```python
+# Example code snippet
+def mouse_movement(center_x, center_y):
+    pyautogui.moveTo(center_x, center_y)
+```
+
+
+
 ## Contributions
 
 Contributions and improvements are welcome! If you have ideas for additional features, optimizations, or bug fixes, feel free to submit a pull request.
