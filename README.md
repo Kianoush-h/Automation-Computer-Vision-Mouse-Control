@@ -6,9 +6,9 @@ This Python script utilizes computer vision techniques to automate interactions 
 
 ## Video Demonstration
 
-[Watch Video Demo](upwork_roulette_part_02.mp4)
+[Watch Video Demo](Tutorial.mp4)
 
-[![Watch Video Demo](https://img.youtube.com/vi/33xtQYCoKmI/0.jpg)](https://www.youtube.com/watch?v=33xtQYCoKmI)
+[![Watch Video Demo](https://img.youtube.com/vi/33xtQYCoKmI/0.jpg)](https://www.youtube.com/watch?v=E07h_oSKJ5U)
 
 ## Key Features
 
